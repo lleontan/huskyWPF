@@ -1,2 +1,2 @@
 # huskyWPF
-Its the wpf ping server.
+WPF ping server.
